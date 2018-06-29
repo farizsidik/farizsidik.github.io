@@ -1176,3 +1176,6 @@ li {
         position: relative;
     }
 }
+.form-control{
+    border: 10px solid white;
+}
